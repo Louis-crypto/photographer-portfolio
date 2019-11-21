@@ -2,16 +2,20 @@
   float: left;
   width: 500px;
   background-color: green;
+  margin-left: 20px;
+  
 }
 .weddings{
   float: left;
   width: 500px;
   background-color: hotpink;
+  margin-left: 20px;
 }
 .sports{
   float: left;
   width: 500px;
-  background-color: burlywood;
+  background-color: red;
+  margin-left: 20px;
 }
 img{
   border: 2px solid black;
