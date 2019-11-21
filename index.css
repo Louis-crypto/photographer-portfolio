@@ -1,12 +1,19 @@
 .nature{
   float: left;
   width: 500px;
+  background-color: green;
 }
 .weddings{
   float: left;
   width: 500px;
+  background-color: hotpink;
 }
 .sports{
   float: left;
   width: 500px;
+  background-color: burlywood;
+}
+img{
+  border: 2px solid black;
+  width: 60%;
 }
